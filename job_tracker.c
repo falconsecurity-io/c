@@ -18,7 +18,7 @@ int main() {
     char job_url[100];
     char resume_url[100];
 
-    print("Enter the following information\n")
+    printf("Enter the following information\n");
     printf("Job Title: ");
     fgets(job_title, 100, stdin);
 
